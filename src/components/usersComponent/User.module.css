@@ -1,0 +1,10 @@
+.UserMain{
+    border: 1px solid darkgreen;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: navy;
+    width: 300px;
+    height: 150px;
+}
