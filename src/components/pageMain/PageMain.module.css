@@ -1,0 +1,9 @@
+.MainPage{
+    height: 50px;
+    width: 100%;
+    background-color: dodgerblue;
+    font-size: 45px;
+    color: chartreuse;
+    margin-bottom: 10px;
+    text-align: center;
+}
